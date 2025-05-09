@@ -57,3 +57,6 @@ Avec la configuration du docker compose, celle ci va prendre en compte le fichie
 
 Ensuite pour créer d'autres utilisateurs, il suffit de se déplacer vers /signup ensuite rentrer le username et le password.
 
+
+### Il est ici trés important de noter que cette méthode d'installation avec un user pour l'authentification ne fonctionne pas avec les nouvelles version mlflow.
+### On a utilisé ici la version 2.15.1 de mlflow. ça fonctionne aussi pour les versions d'avant 2.15.1
