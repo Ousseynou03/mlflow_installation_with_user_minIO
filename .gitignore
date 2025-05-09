@@ -1,0 +1,6 @@
+mlflow/db_data
+minIO/minio_data
+
+config.env
+
+config/basic_auth.ini
